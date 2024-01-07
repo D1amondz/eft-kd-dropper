@@ -1,0 +1,6 @@
+Make sure python is downloaded aswell as pyautogui and opencv
+
+pip install opencv-python
+pip install pyautogui
+
+make sure tarkov is open on your primary monitor otherwise it wont work, also your game needs to be in 1920x1080 and it might need to have the woods background selected
